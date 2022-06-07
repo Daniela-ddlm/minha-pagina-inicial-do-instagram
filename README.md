@@ -11,7 +11,7 @@ Além dos conhecimentos adiquiridos em aula, me propus a ir além e me limitei s
 
 
 * Responsividade:
-
+https://github.com/Daniela-ddlm/minha-pagina-inicial-do-instagram/blob/20cfcf77b6d54fa443ad1b568c923f2c5df1e9e9/img/Projeto%20finalizado%20-%20print%20responsividade.jpg
 
 
 ### 💻 Tecnologias Utilizadas:
