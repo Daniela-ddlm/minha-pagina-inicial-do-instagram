@@ -14,7 +14,7 @@ Além dos conhecimentos adiquiridos em aula, me propus a ir além e me limitei s
 
 
 
-### Tecnologias Utilizadas:
+### :laptop: Tecnologias Utilizadas:
 HTML5
 CSS3
 Visual Studio Code (editor de texto)
