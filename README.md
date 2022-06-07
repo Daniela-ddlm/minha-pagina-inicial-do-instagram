@@ -1,4 +1,4 @@
-# Recriando a página inicial do Instagram 
+# Recriando a página inicial do Instagram :star:
 
 Desafio de projeto II do Módulo II - Curso DIO: HTML5/CSS/JS - Bootcamp Santander 2022
 
