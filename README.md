@@ -8,9 +8,11 @@ Este projeto foi feito através do Bootcamp Santander - Trilha Full Stack Develo
 Além dos conhecimentos adiquiridos em aula, me propus a ir além e me limitei somente ao código. A imagem utilizada na página também foi construida utilizando editor Canvas para trazer movimento com o uso de .gif e pessoalidade usando minha própria imagem de perfil e meu próprio feed do instagram.
 
 * Minha página de login:
+
 ![Projeto finalizado- print da página](https://user-images.githubusercontent.com/74005813/172282852-0be25b9e-9c48-40da-8c47-658ac6de0051.jpg)
 
 * Responsividade:
+
 ![Projeto finalizado - print responsividade](https://user-images.githubusercontent.com/74005813/172282848-e22ed0e5-ce56-46d7-9e89-17e66e2d3602.jpg)
 
 ### 💻 Tecnologias Utilizadas:
